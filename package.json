@@ -1,0 +1,20 @@
+{
+    "name": "makers-place",
+    "description": "All your kitties are belong to us",
+    "version": "0.1.0",
+    "scripts": {
+        "main": "ts-node-dev ./src/main.ts"
+    },
+    "dependencies": {
+        "ethers": "5.3.0"
+    },
+    "devDependencies": {
+        "@types/node": "15.12.2",
+        "@typescript-eslint/eslint-plugin": "4.26.1",
+        "@typescript-eslint/parser": "4.26.1",
+        "eslint": "7.28.0",
+        "eslint-plugin-only-warn": "1.0.2",
+        "ts-node-dev": "1.1.6",
+        "typescript": "4.3.2"
+    }
+}
